@@ -21,6 +21,6 @@ function ageChecker(age) {
   }
 }
 
-function ternaryTeenager() {
+function ternaryTeenager(age) {
   
 }
