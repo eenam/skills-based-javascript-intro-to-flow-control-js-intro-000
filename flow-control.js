@@ -1,3 +1,3 @@
-function teenager() {
-  
+function teenager(age) {
+
 }
