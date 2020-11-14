@@ -11,6 +11,6 @@ function teenager(age) {
   }
 }
 
-function ageChecker() {
-  
+function ageChecker(age) {
+
 }
